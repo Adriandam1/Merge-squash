@@ -11,7 +11,7 @@ git checkout Lider
 git add Lider  
 git commit -m "commit L1"  
 git commit -m "commit L2"  
-git commit -m "commit L3"
+git commit -m "commit L3"  
 git checkout main  
 git merge merge --squash  
   
